@@ -1,0 +1,132 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "1ai-um-qQR"; */
+"1ai-um-qQR.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "2OE-7P-UGC"; */
+"2OE-7P-UGC.normalTitle" = "Войти";
+
+/* Class = "UINavigationItem"; title = "Регистриция"; ObjectID = "4h0-FB-aOP"; */
+"4h0-FB-aOP.title" = "Регистриция";
+
+/* Class = "UIBarButtonItem"; title = "Назад"; ObjectID = "66T-Gu-7S1"; */
+"66T-Gu-7S1.title" = "Назад";
+
+/* Class = "UILabel"; text = "Восх"; ObjectID = "7pt-ty-OKg"; */
+"7pt-ty-OKg.text" = "Восх";
+
+/* Class = "UIButton"; normalTitle = "Зарегистрироваться"; ObjectID = "9E9-hd-5s7"; */
+"9E9-hd-5s7.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UILabel"; text = "Регистрация"; ObjectID = "9h3-kW-GFO"; */
+"9h3-kW-GFO.text" = "Регистрация";
+
+/* Class = "UILabel"; text = "Введите город"; ObjectID = "Ezk-bK-Fpf"; */
+"Ezk-bK-Fpf.text" = "Введите город";
+
+/* Class = "UIButton"; normalTitle = "Сбросить пароль"; ObjectID = "Ihl-Zc-aJl"; */
+"Ihl-Zc-aJl.normalTitle" = "Сбросить пароль";
+
+/* Class = "UIButton"; normalTitle = "Узнать погоду!"; ObjectID = "ItQ-4c-vbo"; */
+"ItQ-4c-vbo.normalTitle" = "Узнать погоду!";
+
+/* Class = "UIButton"; normalTitle = "Зарегистрироваться"; ObjectID = "Ljq-rk-mcl"; */
+"Ljq-rk-mcl.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UITextField"; placeholder = "\"Москва\""; ObjectID = "Nv8-mW-M4I"; */
+"Nv8-mW-M4I.placeholder" = "\"Москва\"";
+
+/* Class = "UITextField"; placeholder = "Введите имя"; ObjectID = "P0M-dp-e5b"; */
+"P0M-dp-e5b.placeholder" = "Введите имя";
+
+/* Class = "UILabel"; text = "рррррр"; ObjectID = "QbF-ez-T9q"; */
+"QbF-ez-T9q.text" = "рррррр";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Qpb-Eg-gcd"; */
+"Qpb-Eg-gcd.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Сбросить пароль"; ObjectID = "UVu-5Y-8XT"; */
+"UVu-5Y-8XT.normalTitle" = "Сбросить пароль";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Facebook "; ObjectID = "V4P-jI-tss"; */
+"V4P-jI-tss.normalTitle" = "Sign in with Facebook ";
+
+/* Class = "UILabel"; text = "Заход солнца"; ObjectID = "VC0-a1-LVy"; */
+"VC0-a1-LVy.text" = "Заход солнца";
+
+/* Class = "UIBarButtonItem"; title = "Выйти"; ObjectID = "Vba-8o-jlp"; */
+"Vba-8o-jlp.title" = "Выйти";
+
+/* Class = "UITextField"; placeholder = "Введите Email"; ObjectID = "WOH-eq-U7n"; */
+"WOH-eq-U7n.placeholder" = "Введите Email";
+
+/* Class = "UITextField"; placeholder = "Введите имя"; ObjectID = "YZ3-ug-wGf"; */
+"YZ3-ug-wGf.placeholder" = "Введите имя";
+
+/* Class = "UIButton"; normalTitle = "Анонимный вход"; ObjectID = "YcB-bn-HTw"; */
+"YcB-bn-HTw.normalTitle" = "Анонимный вход";
+
+/* Class = "UIButton"; normalTitle = "Зарегистрироваться!"; ObjectID = "Yox-8V-ui5"; */
+"Yox-8V-ui5.normalTitle" = "Зарегистрироваться!";
+
+/* Class = "UILabel"; text = "Еще нет аккаунта?"; ObjectID = "YpR-rD-d7b"; */
+"YpR-rD-d7b.text" = "Еще нет аккаунта?";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "ah8-Tp-jfq"; */
+"ah8-Tp-jfq.text" = "Login";
+
+/* Class = "UILabel"; text = "Зарегистрируйтесь через социальные сети"; ObjectID = "cIh-Oc-1WV"; */
+"cIh-Oc-1WV.text" = "Зарегистрируйтесь через социальные сети";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "czG-pP-LaZ"; */
+"czG-pP-LaZ.text" = "Welcome";
+
+/* Class = "UILabel"; text = "темп"; ObjectID = "d3L-Gd-9RO"; */
+"d3L-Gd-9RO.text" = "темп";
+
+/* Class = "UILabel"; text = "Забыли пароль?"; ObjectID = "e4r-vR-W8m"; */
+"e4r-vR-W8m.text" = "Забыли пароль?";
+
+/* Class = "UITextField"; placeholder = "Введите пароль"; ObjectID = "enV-Fw-eQd"; */
+"enV-Fw-eQd.placeholder" = "Введите пароль";
+
+/* Class = "UILabel"; text = "Восход солнца"; ObjectID = "gR2-w5-o7V"; */
+"gR2-w5-o7V.text" = "Восход солнца";
+
+/* Class = "UILabel"; text = "Зах"; ObjectID = "gay-Ec-lUc"; */
+"gay-Ec-lUc.text" = "Зах";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Google"; ObjectID = "hxm-aU-Pls"; */
+"hxm-aU-Pls.normalTitle" = "Sign in with Google";
+
+/* Class = "UILabel"; text = "У вас уже есть аккаунт?"; ObjectID = "kPT-YB-1NV"; */
+"kPT-YB-1NV.text" = "У вас уже есть аккаунт?";
+
+/* Class = "UIButton"; configuration.title = "Смотреть прогноз погоды!"; ObjectID = "kw1-dz-YbL"; */
+"kw1-dz-YbL.configuration.title" = "Смотреть прогноз погоды!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kw1-dz-YbL"; */
+"kw1-dz-YbL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Восстановление пароля"; ObjectID = "ms3-fG-gES"; */
+"ms3-fG-gES.text" = "Восстановление пароля";
+
+/* Class = "UIButton"; normalTitle = "Зарегистрироваться"; ObjectID = "nEL-Ho-QR7"; */
+"nEL-Ho-QR7.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UILabel"; text = "Обычная регистрация"; ObjectID = "oFs-YF-18R"; */
+"oFs-YF-18R.text" = "Обычная регистрация";
+
+/* Class = "UITextField"; placeholder = "Введите Emal"; ObjectID = "oSh-gt-l4f"; */
+"oSh-gt-l4f.placeholder" = "Введите Emal";
+
+/* Class = "UILabel"; text = "Ощущается "; ObjectID = "saI-8b-H3m"; */
+"saI-8b-H3m.text" = "Ощущается ";
+
+/* Class = "UILabel"; text = "рррр"; ObjectID = "tca-qg-51O"; */
+"tca-qg-51O.text" = "рррр";
+
+/* Class = "UILabel"; text = "feels"; ObjectID = "uPA-Gr-a5m"; */
+"uPA-Gr-a5m.text" = "feels";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "xAr-tf-TDv"; */
+"xAr-tf-TDv.normalTitle" = "Войти";
